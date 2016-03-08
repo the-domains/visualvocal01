@@ -1,7 +1,7 @@
 name: VISUALVOCAL01
 favicon: null
-layout_spectrum: 0.016386804869398475
-typography_spectrum: 0.36337589053437114
+layout_spectrum: 0
+typography_spectrum: 0.83848
 cta:
   domain: null
   bucket: null
